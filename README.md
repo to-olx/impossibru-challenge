@@ -2,6 +2,7 @@
 I will give you R100 bucks if you can get this code to run successfully and print the last pair on the array.
 
 ## Rules:
+- The script that you need to run is `app.py`, other script I shared are variants that I attempted to optimize for my system.
 - You may modify the code only to optimize the performance but it should still populate `empty` array with the (i,j) pairs
 - You may use any language of your choice but ideally, try to run it as is.
 - Feel free to try it on any hardware that you think is capable of running the code.
