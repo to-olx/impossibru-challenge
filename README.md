@@ -1,4 +1,4 @@
-# impossibru-challenge
+# impossibru-challenge 😢
 I will give you R100 bucks if you can get this code to run successfully and print the last pair on the array.
 
 ## Rules:
@@ -8,7 +8,7 @@ I will give you R100 bucks if you can get this code to run successfully and prin
 - Feel free to try it on any hardware that you think is capable of running the code.
 
 ---
-
+## Optional scripts:
 * I have shared an additional script `array_cuda.cu` that you can try running if you have an nvidia GPU.
 * The code essentially should output the same thing.
 
