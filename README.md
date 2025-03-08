@@ -17,4 +17,11 @@ I will give you R100 bucks if you can get this code to run successfully and prin
 ## Winning conditions:
 1. You need record a video running the code and it should output the results as stipulated in the rules.
 
+
+## Progress
+-[*] Script tested in windows environment.
+-[ ] Script test on macos?
+-[ ] Optimized to run on Cuda GPU?
+-[ ] Optimised to run on M2 neural engine for mlx?
+
 ### Good luck 😎, get hacking.
